@@ -9,6 +9,6 @@ Where I worked under the supervision of Dr. Sundeep Prabhakar Chepuri, on solvin
 
 
 I developed a method to solve the entity alignment using a graph neural network. My motivation for the architecture was siamese network
-You can find in dept details and discussion in my summer internship report.
+You can find in dept details and discussion in [my summer internship report](https://github.com/ananyas168/GNN/blob/main/Internship_report_GNN.pdf).
 
 A simple but effective network, run over the DBP15K dataset
